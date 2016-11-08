@@ -21,7 +21,6 @@ PRODUCT_PACKAGES += \
 	pm-proxy \
 	pm-service \
 	qmuxd \
-	qseecomd \
 	rmt_storage \
 	sct_service \
 	sensors \
@@ -29,7 +28,6 @@ PRODUCT_PACKAGES += \
 	tad_static \
 	gatekeeper.msm8994 \
 	sensors.msm8994 \
-	libQSEEComAPI \
 	libactuator_bu64291g \
 	libactuator_bu64295g \
 	libactuator_bu64296g \
