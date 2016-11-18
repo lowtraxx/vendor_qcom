@@ -21,6 +21,7 @@ PRODUCT_PACKAGES += \
 	pm-proxy \
 	pm-service \
 	qmuxd \
+	qseecomd \
 	rmt_storage \
 	sct_service \
 	sensors \
@@ -28,6 +29,7 @@ PRODUCT_PACKAGES += \
 	tad_static \
 	gatekeeper.msm8994 \
 	sensors.msm8994 \
+	libQSEEComAPI \
 	libactuator_bu64291g \
 	libactuator_bu64295g \
 	libactuator_bu64296g \
@@ -124,7 +126,7 @@ PRODUCT_PACKAGES += \
 	libmmcamera_imx134b \
 	libmmcamera_imx200a \
 	libmmcamera_imx200b \
-	libmmcamera_imx241 \
+	libmmcamera_imx241_2 \
 	libmmcamera_imx300h \
 	libmmcamera_imx300l \
 	libmmcamera_isp_abf44 \
