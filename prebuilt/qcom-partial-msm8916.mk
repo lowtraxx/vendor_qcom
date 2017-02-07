@@ -27,7 +27,6 @@ PRODUCT_PACKAGES += \
 	ta_qmi_service \
 	tad_static \
 	gatekeeper.msm8916 \
-	libQSEEComAPI \
 	libadsprpc \
 	libconfigdb \
 	libdiag \
@@ -36,8 +35,6 @@ PRODUCT_PACKAGES += \
 	libdsi_netctrl \
 	libdsutils \
 	libidl \
-	libloc_api_v02 \
-	libloc_ds_api \
 	liblqe \
 	libmdmdetect \
 	libmiscta \
